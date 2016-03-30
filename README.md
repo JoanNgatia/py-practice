@@ -6,7 +6,7 @@ The different exercise topics have been divided into branches.
 The branches are:
 - Strings
 - Lists
-- Wordcount
+- Dict
 - Baby Names
 - Log Puzzle
 - Copy
